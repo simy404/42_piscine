@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putstr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By:hsamir <hsamir@student.42kocaeli.com.tr>                       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/09 06:09:03 by marvin            #+#    #+#             */
 /*   Updated: 2024/07/09 06:10:20 by marvin           ###   ########.fr       */

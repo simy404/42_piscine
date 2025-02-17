@@ -3,7 +3,8 @@
 /*                                                        :::      ::::::::   */
 /*   ft_print_comb.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By:hsamir <hsamir@student.42kocaeli.com.tr>                       +#+ 
+	+:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/06 15:35:36 by marvin            #+#    #+#             */
 /*   Updated: 2024/07/06 15:40:13 by marvin           ###   ########.fr       */

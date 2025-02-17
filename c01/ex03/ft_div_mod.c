@@ -3,7 +3,8 @@
 /*                                                        :::      ::::::::   */
 /*   ft_div_mod.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By:hsamir <hsamir@student.42kocaeli.com.tr>                       +#+ 
+	+:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/09 05:49:27 by marvin            #+#    #+#             */
 /*   Updated: 2024/07/09 05:49:30 by marvin           ###   ########.fr       */

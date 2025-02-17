@@ -3,7 +3,8 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strupcase.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: marvin <marvin@42.fr>                      +#+  +:+       +#+        */
+/*   By:hsamir <hsamir@student.42kocaeli.com.tr>                       +#+ 
+	+:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/07/11 15:02:03 by marvin            #+#    #+#             */
 /*   Updated: 2024/07/11 15:02:05 by marvin           ###   ########.fr       */
